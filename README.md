@@ -2,7 +2,7 @@ Woofking
 
 Step 1:
 
-install docker using this li[](https://docs.docker.com/get-docker/)nk
+install docker using this link https://docs.docker.com/get-docker/
 
 Step 2:
 
