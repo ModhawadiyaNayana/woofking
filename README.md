@@ -6,11 +6,11 @@ install docker using this link https://docs.docker.com/get-docker/
 
 Step 2:
 
-run this command to build image:   docker build -t notificaton .
+run this command to build image:   **docker build -t notificaton .**
 
 Step 3:
 
-run this command to build and run container:   docker run -p8090:8081 notification
+run this command to build and run container:   **docker run -p8090:8081 notification**
 
 Step 4:
 
